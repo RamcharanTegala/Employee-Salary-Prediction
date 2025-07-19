@@ -19,7 +19,7 @@ This project predicts whether an employee's annual income exceeds $50K based on 
 Here's a look at the Streamlit web application interface:
 
 *To add your own screenshot, take a picture of your running app, add it to your repository, and change the link below.*
-[!(link_to_your_screenshot.png)
+[!(screenshot.png)
 ](https://github.com/RamcharanTegala/Employee-Salary-Prediction/tree/0b633c36264d0683fa5158ad53a73ada71f33da9/Screenshots)
 ---
 
