@@ -1,0 +1,6 @@
+pandas==2.2.2
+matplotlib==3.9.1
+scikit-learn==1.5.1
+joblib==1.4.2
+streamlit==1.36.0
+pyngrok==7.1.6
